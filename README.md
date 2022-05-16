@@ -1,2 +1,2 @@
 # Beginner-Projects
- Contains projects when i started learning web development
+Projects which i created as beginner. These Projects are created with HTML, CSS and JavaScript.
